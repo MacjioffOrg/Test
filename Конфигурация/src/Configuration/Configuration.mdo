@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c2950d67-079e-485d-b121-041f0a66de16">
+  <name>Конфигурация</name>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="45995106-3cce-47e1-8a14-d84ad9b44fce"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="15825d7c-3154-40a8-9fa2-b5d93152a0af"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="e79c929f-4268-430d-83bb-565d4fd31ae3"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="7c859800-5ba5-47dd-9b3e-d750dec74d01"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="61c8a37c-cf21-495a-9647-a038d2752780"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="957bf364-50c4-4c7b-8c22-96534069fef0"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="f7322e4a-9a43-4238-9ee5-ae0232285203"/>
+  <configurationExtensionCompatibilityMode>8.3.17</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <vendor>MacJIOFF</vendor>
+  <version>1.0.2</version>
+  <requiredMobileApplicationPermissions>
+    <permission>AllowOSBackup</permission>
+    <use>true</use>
+  </requiredMobileApplicationPermissions>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.17</compatibilityMode>
+  <languages uuid="9eca8fa7-dfd7-48db-b407-158f2605541b">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <catalogs>Catalog.Товары</catalogs>
+  <documents>Document.Продажи</documents>
+  <dataProcessors>DataProcessor.ДомашнееЗадание</dataProcessors>
+</mdclass:Configuration>
